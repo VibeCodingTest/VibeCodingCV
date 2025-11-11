@@ -1,0 +1,135 @@
+{
+  "meta": {
+    "title": "Lanfor Mena | Arquitectura de Software",
+    "description": "Portafolio profesional de Lanfor Mena, ingeniero de software enfocado en arquitectura .NET, automatización con IA y diseño de agentes inteligentes."
+  },
+  "navigation": {
+    "home": "Inicio",
+    "about": "Sobre mí",
+    "experience": "Experiencia",
+    "projects": "Proyectos",
+    "education": "Educación",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "greeting": "Hola, soy",
+    "name": "Lanfor Mena",
+    "role": "Ingeniero de Software enfocado en Arquitectura",
+    "summary": "Diseño soluciones modulares en .NET y exploro automatizaciones impulsadas por IA para acelerar la innovación empresarial."
+  },
+  "about": {
+    "title": "Sobre mí",
+    "description": "Ingeniero de software en transición hacia arquitectura, con más de seis años construyendo soluciones escalables bajo patrones hexagonales y de microservicios. Me apasiona integrar automatización basada en IA, agentes inteligentes y herramientas low-code para potenciar equipos y resultados."
+  },
+  "experience": {
+    "title": "Experiencia",
+    "items": [
+      {
+        "id": "novacomp",
+        "company": "Novacomp",
+        "role": "Ingeniero de Software",
+        "period": "Ene 2022 – Presente",
+        "highlights": [
+          "Diseñé componentes modulares alineados a una arquitectura hexagonal usando .NET y React.",
+          "Colaboré con líderes técnicos para definir estándares arquitectónicos y estrategias de despliegue en IIS y SQL Server.",
+          "Propuse e implementé optimizaciones que mejoraron la productividad del equipo y la escalabilidad de los sistemas."
+        ]
+      },
+      {
+        "id": "mbc",
+        "company": "MBC Developers",
+        "role": "Ingeniero de Software",
+        "period": "Nov 2020 – Ene 2022",
+        "highlights": [
+          "Apliqué principios SOLID y patrones de diseño en plataformas de seguros.",
+          "Mejoré el rendimiento mediante refactorización de código y optimización de consultas.",
+          "Acompañé al equipo en la adopción de prácticas de desarrollo modernas."
+        ]
+      },
+      {
+        "id": "scom",
+        "company": "SCOM",
+        "role": "Ingeniero de Software",
+        "period": "Sep 2019 – Nov 2020",
+        "highlights": [
+          "Migré y reingeniericé sistemas legados de .NET 1.1 a 4.8.",
+          "Optimicé lógica SQL e integré servicios de Azure para escalabilidad.",
+          "Entregué código limpio y mantenible en plazos ajustados."
+        ]
+      },
+      {
+        "id": "monge",
+        "company": "Grupo Monge",
+        "role": "Ingeniero de Software",
+        "period": "Jun 2018 – Sep 2019",
+        "highlights": [
+          "Construí y optimicé reportes críticos para el negocio con impacto medible.",
+          "Participé en el ciclo SDLC completo de sistemas empresariales.",
+          "Fortalecí la colaboración interna implementando estándares de código."
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "title": "Proyectos e Innovación",
+    "items": [
+      {
+        "id": "rop",
+        "name": "NuGet ROP Package",
+        "description": "Librería de Railway Oriented Programming que integra Problem Details (RFC 7807) para flujos de error consistentes en .NET.",
+        "linkLabel": "Ver paquete"
+      },
+      {
+        "id": "ai-automation",
+        "name": "Investigación en IA y Automatización",
+        "description": "Prototipos de agentes inteligentes que combinan APIs de IA para traducción, transcripción y consultas dinámicas.",
+        "linkLabel": "Explorar investigación"
+      },
+      {
+        "id": "n8n",
+        "name": "Automatizaciones con N8n",
+        "description": "Workflows automatizados para procesamiento y orquestación de datos empresariales.",
+        "linkLabel": "Ver workflows"
+      },
+      {
+        "id": "retool",
+        "name": "Prototipado low-code con Retool",
+        "description": "Experimentos para validar rápidamente interfaces y sistemas impulsados por IA.",
+        "linkLabel": "Ver prototipos"
+      }
+    ]
+  },
+  "education": {
+    "title": "Educación y Certificaciones",
+    "items": [
+      {
+        "id": "ucr",
+        "institution": "Universidad de Costa Rica (UCR)",
+        "program": "Ingeniería en Sistemas",
+        "period": "2015 – 2018"
+      },
+      {
+        "id": "fidelitas",
+        "institution": "Universidad Fidélitas",
+        "program": "Bachillerato en Ingeniería de Sistemas (tesis pendiente)",
+        "period": "2019 – 2020"
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contacto",
+    "email": "lan4mena@gmail.com",
+    "phone": "+506 8763 5904",
+    "location": "Heredia, Costa Rica",
+    "links": {
+      "emailLabel": "Correo",
+      "phoneLabel": "Teléfono",
+      "locationLabel": "Ubicación",
+      "linkedin": "LinkedIn",
+      "github": "GitHub"
+    }
+  },
+  "cta": {
+    "viewMore": "Ver más"
+  }
+}
