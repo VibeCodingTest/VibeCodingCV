@@ -1,0 +1,30 @@
+# --- NODE & BUILD ---
+node_modules/
+dist/
+*.log
+.env
+.env.*
+
+# --- VITE ---
+.vite/
+.cache/
+
+# --- SYSTEM FILES ---
+.DS_Store
+Thumbs.db
+
+# --- DOCKER ---
+*.pid
+docker-compose.override.yml
+docker-compose.local.yml
+
+# --- IDEs ---
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# --- MISC ---
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
