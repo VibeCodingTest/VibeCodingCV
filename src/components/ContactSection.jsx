@@ -53,11 +53,6 @@ const ContactSection = () => {
       href: `mailto:${contact.email}`
     },
     {
-      label: contact.links.phoneLabel,
-      value: contact.phone,
-      href: `tel:${contact.phone.replace(/\s+/g, '')}`
-    },
-    {
       label: contact.links.locationLabel,
       value: contact.location,
       href: 'https://maps.google.com/?q=Heredia+Costa+Rica'
