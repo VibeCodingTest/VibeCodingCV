@@ -1,0 +1,135 @@
+{
+  "meta": {
+    "title": "Lanfor Mena | Software Architecture",
+    "description": "Professional portfolio for Lanfor Mena, software engineer focused on .NET architecture, AI-driven automation, and intelligent agent design."
+  },
+  "navigation": {
+    "home": "Home",
+    "about": "About",
+    "experience": "Experience",
+    "projects": "Projects",
+    "education": "Education",
+    "contact": "Contact"
+  },
+  "hero": {
+    "greeting": "Hi, I'm",
+    "name": "Lanfor Mena",
+    "role": "Software Engineer moving into Architecture",
+    "summary": "I craft modular .NET solutions and explore AI-powered automation to accelerate enterprise innovation."
+  },
+  "about": {
+    "title": "About",
+    "description": "Software engineer transitioning toward architecture with 6+ years building scalable solutions using hexagonal and microservices patterns. Passionate about bringing AI automation, intelligent agents, and low-code tools to empower teams and outcomes."
+  },
+  "experience": {
+    "title": "Experience",
+    "items": [
+      {
+        "id": "novacomp",
+        "company": "Novacomp",
+        "role": "Software Engineer",
+        "period": "Jan 2022 – Present",
+        "highlights": [
+          "Designed modular components aligned with hexagonal architecture using .NET and React.",
+          "Partnered with technical leads to define architectural standards and deployment strategies across IIS and SQL Server.",
+          "Drove optimizations that increased team productivity and system scalability."
+        ]
+      },
+      {
+        "id": "mbc",
+        "company": "MBC Developers",
+        "role": "Software Engineer",
+        "period": "Nov 2020 – Jan 2022",
+        "highlights": [
+          "Applied SOLID principles and design patterns across insurance platforms.",
+          "Boosted performance through refactoring and query optimization.",
+          "Enabled teams to embrace modern development practices."
+        ]
+      },
+      {
+        "id": "scom",
+        "company": "SCOM",
+        "role": "Software Engineer",
+        "period": "Sep 2019 – Nov 2020",
+        "highlights": [
+          "Migrated and re-engineered legacy systems from .NET 1.1 to 4.8.",
+          "Optimized SQL logic and integrated Azure services for scalability.",
+          "Delivered clean, maintainable code against tight deadlines."
+        ]
+      },
+      {
+        "id": "monge",
+        "company": "Grupo Monge",
+        "role": "Software Engineer",
+        "period": "Jun 2018 – Sep 2019",
+        "highlights": [
+          "Built and optimized business-critical reports with measurable impact.",
+          "Participated across the full SDLC for enterprise systems.",
+          "Improved team collaboration by implementing code standards."
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "title": "Innovation & Projects",
+    "items": [
+      {
+        "id": "rop",
+        "name": "NuGet ROP Package",
+        "description": "Railway Oriented Programming library that integrates Problem Details (RFC 7807) for consistent .NET error flows.",
+        "linkLabel": "View package"
+      },
+      {
+        "id": "ai-automation",
+        "name": "AI & Automation Research",
+        "description": "Agent prototypes combining AI APIs for translation, transcription, and dynamic queries.",
+        "linkLabel": "Explore research"
+      },
+      {
+        "id": "n8n",
+        "name": "Automation with N8n",
+        "description": "Automated workflows for enterprise data processing and orchestration.",
+        "linkLabel": "View workflows"
+      },
+      {
+        "id": "retool",
+        "name": "Low-code prototyping with Retool",
+        "description": "Experiments to rapidly validate AI-driven systems and interfaces.",
+        "linkLabel": "View prototypes"
+      }
+    ]
+  },
+  "education": {
+    "title": "Education & Certifications",
+    "items": [
+      {
+        "id": "ucr",
+        "institution": "University of Costa Rica (UCR)",
+        "program": "Systems Engineering",
+        "period": "2015 – 2018"
+      },
+      {
+        "id": "fidelitas",
+        "institution": "Universidad Fidélitas",
+        "program": "Bachelor's in Systems Engineering (thesis pending)",
+        "period": "2019 – 2020"
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contact",
+    "email": "lan4mena@gmail.com",
+    "phone": "+506 8763 5904",
+    "location": "Heredia, Costa Rica",
+    "links": {
+      "emailLabel": "Email",
+      "phoneLabel": "Phone",
+      "locationLabel": "Location",
+      "linkedin": "LinkedIn",
+      "github": "GitHub"
+    }
+  },
+  "cta": {
+    "viewMore": "View more"
+  }
+}
